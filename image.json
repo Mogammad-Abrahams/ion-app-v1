@@ -1,0 +1,42 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "Architectural Consulting",
+    "content": "Helping you develop or mature your enterprise architecture to more effectively support your business outcomes.",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "Business Consulting",
+    "content": "EOH’s comprehensive programme and project management services span the ALM (application lifecycle management) to ensure predictable outcomes. We have successfully delivered on programmes and projects across all industries, taking both waterfall and agile approaches, to support each business’s unique requirements.",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "Digital",
+    "content": "EOH builds brands in the next-generation digital space by being customer centric, with expertise spanning website design and build, optimised mobile channels, SEO, content and all-important UX and CX",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "User Experience",
+    "content": "Core to our User Experience offering is a practice called User-Centered Analysis (UCA). This collaborative technique entails engaging with users to help us make truly informed design decisions. Using this approach, EOH can help you perform thorough user research and define an effective design strategy including scenario, task and environmental analysis, user profiles and personas and an information architecture.",    
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "Managed Services",
+    "content": "As the service and technology partner of choice for our major enterprise and mid-sized customers for over 20 years, we provide comprehensive support with consistently exceptional service delivery. With EOH as your managed service partner, you can rest assured that your ICT requirements will be taken care of in a central turnkey fashion, while you focus on growing your business.",    
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  }
+]
